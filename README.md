@@ -1,4 +1,4 @@
-# **Customer Shopping Behavior Analysis**
+# **Customer Shopping Behavior Analysis - Portfolio Project**
 
 ## **1. Project Overview**
 
