@@ -89,8 +89,7 @@ The dashboard is designed to be simple, intuitive, and stakeholder-friendly.
 
 ---
 ## Dashboard Preview
-![customer analysis Dashboard](<img width="966" height="502" alt="customer analysis dashboard" src="https://github.com/user-attachments/assets/1b84e127-73eb-4524-bfea-083b4cd4c81e" />
-)
+![customer analysis Dashboard](https://github.com/onyedika39/customer_behavior_analysis/blob/main/customer%20analysis%20dashboard.png)
 
 ## **6. Key Insights**
 
