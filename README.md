@@ -2,6 +2,10 @@
 
 End-to-end customer behavior analytics project using SQL, Python, and Power BI to study shopping patterns, build dashboards, and communicate business recommendations.
 
+## Project Type
+
+Data analytics and business intelligence portfolio project.
+
 ## Objective
 
 This project is organized as a portfolio case study to show the full analysis workflow: understanding the business problem, preparing the data, exploring patterns, building the final output, and communicating insights clearly.
@@ -48,4 +52,5 @@ This is one of the stronger portfolio projects because it combines analysis, vis
 ## Author
 
 Created by Michael Kenechukwu as part of a data analytics and business intelligence portfolio.
+
 
