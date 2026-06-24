@@ -47,4 +47,5 @@ This is one of the stronger portfolio projects because it combines analysis, vis
 
 ## Author
 
-Created by Michael Kenechukwu as part of a data analytics, business intelligence, and machine learning portfolio.
+Created by Michael Kenechukwu as part of a data analytics and business intelligence portfolio.
+
